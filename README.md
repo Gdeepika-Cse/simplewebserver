@@ -27,7 +27,7 @@ Start the server script and check for errors.
 Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 ## PROGRAM:
-<img width="551" height="917" alt="Screenshot 2025-08-30 133525" src="https://github.com/user-attachments/assets/3a6619a3-b31b-470b-8f60-3f3a61fff981" />
+<img width="565" height="903" alt="image" src="https://github.com/user-attachments/assets/39d03c45-f472-4352-bf9b-333919b66aca" />
 
 ## OUTPUT:
 <img width="1919" height="1116" alt="Screenshot 2025-08-30 132219" src="https://github.com/user-attachments/assets/afdaa5e5-4ae4-493d-91f9-1dd2fd346e1c" />
